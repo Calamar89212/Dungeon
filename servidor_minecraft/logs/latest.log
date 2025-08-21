@@ -3411,3 +3411,44 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[21:43:19] [Server thread/INFO]: Villager class_1646['Kallal Wadler'/3096393, l='ServerLevel[world]', x=-474.25, y=56.28, z=-293.81] died, message: 'Kallal Wadler was slain by Zombie'
+[21:43:19] [Server thread/INFO]: Named entity class_1646['Kallal Wadler'/3096393, l='ServerLevel[world]', x=-474.25, y=56.28, z=-293.81] died: Kallal Wadler was slain by Zombie
+[21:44:26] [Server thread/INFO]: Asierito01OwO was slain by Neropou777
+[21:44:33] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -430, 81, -224, minecraft:overworld
+[21:46:18] [Server thread/INFO]: Asierito01OwO was slain by Neropou777
+[21:46:21] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -419, 82, -254, minecraft:overworld
+[21:47:01] [Server thread/INFO]: Villager class_1646['Wayne Bevacqua'/3096169, l='ServerLevel[world]', x=-458.57, y=52.00, z=-288.61] died, message: 'Wayne Bevacqua was slain by Zombie'
+[21:47:01] [Server thread/INFO]: Named entity class_1646['Wayne Bevacqua'/3096169, l='ServerLevel[world]', x=-458.57, y=52.00, z=-288.61] died: Wayne Bevacqua was slain by Zombie
+[21:47:15] [Server thread/INFO]: Villager class_1646['Millesant Bentz'/3096167, l='ServerLevel[world]', x=-458.30, y=53.00, z=-291.01] died, message: 'Millesant Bentz was slain by Zombie'
+[21:47:15] [Server thread/INFO]: Named entity class_1646['Millesant Bentz'/3096167, l='ServerLevel[world]', x=-458.30, y=53.00, z=-291.01] died: Millesant Bentz was slain by Zombie
+[21:47:33] [Server thread/INFO]: Asierito01OwO was slain by Neropou777
+[21:47:37] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -428, 82, -260, minecraft:overworld
+[21:48:21] [Server thread/WARN]: Asierito01OwO was kicked for floating too long!
+[21:48:21] [Server thread/INFO]: Asierito01OwO lost connection: Flying is not enabled on this server
+[21:48:21] [Server thread/INFO]: Asierito01OwO left the game
+[21:48:33] [Server thread/INFO]: Asierito01OwO[/127.26.148.143:33947] logged in with entity id 3099685 at (-416.7510841968462, 83.7531999805212, -256.54255846635704)
+[21:48:33] [Server thread/INFO]: Sending server config values to client
+[21:48:33] [Server thread/INFO]: Syncing config to Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20)
+[21:48:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:48:33] [Server thread/INFO]: Asierito01OwO joined the game
+[21:48:33] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:48:34] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Asierito01OwO. Claiming: GRAVE / Robbing: INVENTORY
+[21:48:34] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21:48:34] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21:48:34] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21:48:34] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21:48:34] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[21:49:35] [Server thread/INFO]: Asierito01OwO has made the advancement [The Parrots and the Bats]

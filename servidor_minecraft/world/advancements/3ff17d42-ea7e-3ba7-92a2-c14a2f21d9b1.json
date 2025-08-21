@@ -1274,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-21 21:39:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/pythadendron_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -1877,6 +1883,12 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-21 21:39:17 +0000"
     },
     "done": true
   },
@@ -4094,6 +4106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-21 21:39:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -4228,6 +4246,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-21 21:46:06 +0000",
       "apple": "2025-08-21 21:32:27 +0000",
       "cooked_cod": "2025-08-21 19:04:51 +0000",
       "bread": "2025-08-21 18:26:02 +0000",
