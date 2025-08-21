@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-21 19:07:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-08-21 19:07:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
@@ -620,6 +632,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_redstone_block": "2025-08-21 18:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
     },
     "done": true
   },
@@ -677,6 +695,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:43:21 +0000"
@@ -707,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2025-08-21 18:56:21 +0000"
@@ -716,6 +746,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-21 18:51:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -746,6 +782,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-21 18:51:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -905,6 +947,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-08-21 18:47:29 +0000"
@@ -998,6 +1046,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-21 18:47:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -1130,6 +1184,12 @@
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -1274,6 +1334,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-21 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
     },
     "done": true
   },
@@ -1436,6 +1502,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-08-21 18:42:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -1667,6 +1739,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
@@ -1733,9 +1811,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-21 18:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 19:09:04 +0000"
     },
     "done": true
   },
@@ -1793,6 +1889,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 19:04:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:01 +0000"
@@ -1832,6 +1934,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-21 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-21 19:06:03 +0000"
     },
     "done": true
   },
@@ -1916,6 +2024,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -2105,6 +2219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:43:21 +0000"
@@ -2189,9 +2309,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-21 19:07:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -2246,6 +2384,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
     },
     "done": true
   },
@@ -2333,6 +2477,12 @@
     },
     "done": true
   },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-08-21 19:12:08 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
       "leaping_zombie_killed": "2025-08-21 19:00:22 +0000"
@@ -2372,6 +2522,12 @@
   "betternether:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 19:09:04 +0000"
     },
     "done": true
   },
@@ -2525,6 +2681,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-08-21 18:51:58 +0000"
@@ -2564,6 +2726,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-21 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -2705,6 +2873,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:43:21 +0000"
@@ -2774,6 +2948,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -2924,6 +3104,12 @@
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-21 19:07:31 +0000"
     },
     "done": true
   },
@@ -3161,9 +3347,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -3197,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:47:34 +0000"
@@ -3215,9 +3419,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-21 19:04:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-08-21 19:05:04 +0000"
     },
     "done": true
   },
@@ -3279,6 +3495,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-08-21 18:40:57 +0000",
       "minecraft:beach": "2025-08-21 18:42:03 +0000",
+      "minecraft:river": "2025-08-21 19:03:13 +0000",
       "minecraft:forest": "2025-08-21 18:44:03 +0000"
     },
     "done": false
@@ -3310,6 +3527,12 @@
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 19:09:04 +0000"
     },
     "done": true
   },
@@ -3346,6 +3569,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-08-21 18:54:24 +0000",
+      "apple": "2025-08-21 19:12:38 +0000",
+      "potato": "2025-08-21 19:10:41 +0000",
       "bread": "2025-08-21 18:45:37 +0000",
       "cookie": "2025-08-21 18:55:13 +0000"
     },
@@ -3354,6 +3579,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 18:56:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -3405,6 +3636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-21 19:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:01 +0000"
@@ -3414,6 +3651,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-21 18:46:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },

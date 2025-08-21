@@ -1,4 +1,10 @@
 {
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:52:02 +0000"
@@ -38,6 +44,12 @@
   "betterend:recipes/decorations/lacugrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -83,6 +95,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -92,6 +110,18 @@
   "betternether:recipes/decorations/warped_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -161,6 +191,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:38 +0000"
@@ -197,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -251,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-21 18:22:46 +0000"
@@ -299,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -326,6 +392,12 @@
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -467,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-08-21 18:52:02 +0000"
@@ -491,9 +569,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-21 18:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -569,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:39 +0000"
@@ -641,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:52:02 +0000"
@@ -680,6 +782,18 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -737,6 +851,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:52:02 +0000"
@@ -758,6 +884,12 @@
   "betterend:recipes/redstone/tenanea_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -809,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -824,6 +962,12 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
     },
     "done": true
   },
@@ -1091,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -1142,6 +1292,12 @@
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-08-21 18:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-08-21 19:12:51 +0000"
     },
     "done": true
   },
@@ -1337,6 +1493,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_door": {
     "criteria": {
       "has_planks": "2025-08-21 18:21:23 +0000"
@@ -1379,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_sakura_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -1418,6 +1592,18 @@
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-21 19:03:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -1487,9 +1673,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -1607,6 +1805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:38 +0000"
@@ -1646,6 +1850,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -1805,6 +2015,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -1856,6 +2072,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-21 18:22:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -1919,6 +2141,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -1967,6 +2195,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 19:01:13 +0000"
@@ -2000,6 +2234,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-21 18:20:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 19:10:49 +0000"
     },
     "done": true
   },
@@ -2090,6 +2330,12 @@
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-08-21 19:12:37 +0000"
     },
     "done": true
   },
@@ -2333,6 +2579,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:38 +0000"
@@ -2396,6 +2648,12 @@
   "ecologics:recipes/ecologics/coconut_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-21 18:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -2543,6 +2801,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:52:02 +0000"
@@ -2612,6 +2876,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-08-21 19:12:01 +0000"
     },
     "done": true
   },
@@ -2789,6 +3059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
@@ -2855,6 +3131,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-08-21 18:20:08 +0000"
@@ -2897,6 +3179,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "bagofholding:recipes/tools/golden_bag_of_holding": {
+    "criteria": {
+      "has_iron_bag_of_holding": "2025-08-21 19:09:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-08-21 18:59:58 +0000"
@@ -2909,9 +3203,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-08-21 19:06:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 19:10:50 +0000"
     },
     "done": true
   },
@@ -3014,6 +3320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 19:01:13 +0000"
@@ -3028,7 +3340,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-21 18:24:19 +0000"
+      "bread": "2025-08-21 18:24:19 +0000",
+      "cooked_salmon": "2025-08-21 19:05:57 +0000"
     },
     "done": false
   },
@@ -3059,6 +3372,18 @@
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-21 19:03:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -3095,6 +3420,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-21 18:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
     },
     "done": true
   },
@@ -3152,6 +3489,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:52:02 +0000"
@@ -3173,6 +3516,12 @@
   "betternether:recipes/decorations/willow_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:22:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-21 19:08:33 +0000"
     },
     "done": true
   },
@@ -3221,6 +3570,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 19:01:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-08-21 19:10:52 +0000"
     },
     "done": true
   },

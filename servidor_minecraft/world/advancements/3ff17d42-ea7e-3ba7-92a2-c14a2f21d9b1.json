@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-21 19:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 18:35:12 +0000"
@@ -1829,6 +1835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 19:12:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:09 +0000"
@@ -1874,6 +1886,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-21 18:19:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 19:07:12 +0000"
     },
     "done": true
   },
@@ -3125,6 +3143,12 @@
     },
     "done": true
   },
+  "bagofholding:recipes/tools/iron_bag_of_holding": {
+    "criteria": {
+      "has_leather_bag_of_holding": "2025-08-21 19:11:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -3311,9 +3335,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-21 19:07:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-08-21 19:08:12 +0000"
     },
     "done": true
   },
@@ -3423,6 +3459,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 19:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-21 18:21:31 +0000"
@@ -3449,6 +3491,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-08-21 19:04:51 +0000",
       "bread": "2025-08-21 18:26:02 +0000"
     },
     "done": false
