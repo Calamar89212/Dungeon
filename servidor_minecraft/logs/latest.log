@@ -2012,3 +2012,102 @@ Caused by: java.io.IOException: Packet -1/0 (class_2889) was larger than I expec
 [20:28:41] [Server thread/INFO]: [Calamar892: Killed Asierito01OwO]
 [20:28:43] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -416, 84, -252, minecraft:overworld
 [20:28:47] [Server thread/INFO]: Calamar892 claimed a grave belonging to Calamar892 at -411, 81, -240, minecraft:overworld
+[20:29:10] [Server thread/INFO]: [Calamar892: Set 30 experience levels on Calamar892]
+[20:29:30] [Server thread/INFO]: <felipaosxdd> yo
+[20:30:08] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: paladins:paladin isComplete: false
+[20:30:28] [Server thread/INFO]: <felipaosxdd> Calamar892 te puedo agarrar un diamante para mejorar la muchola
+[20:31:02] [Server thread/INFO]: Calamar892 has made the advancement [You Spin Me Right Round Baby]
+[20:31:58] [Server thread/WARN]: Calamar892 moved too quickly! -492.86250001192093,-7.621296840539202,219.33029197278023
+[20:32:17] [Server thread/INFO]: Villager class_1646['Hort Renwick'/920069, l='ServerLevel[world]', x=-461.53, y=53.14, z=-290.67] died, message: 'Hort Renwick was slain by Zombie'
+[20:32:17] [Server thread/INFO]: Named entity class_1646['Hort Renwick'/920069, l='ServerLevel[world]', x=-461.53, y=53.14, z=-290.67] died: Hort Renwick was slain by Zombie
+[20:32:24] [Server thread/INFO]: Named entity class_1439['Myriad'/926663, l='ServerLevel[world]', x=-354.16, y=102.00, z=-271.13] died: Myriad was slain by felipaosxdd
+[20:32:56] [Server thread/INFO]: <felipaosxdd> yo te la puedo meter si queires
+[20:32:57] [Server thread/INFO]: Villager class_1646['Maddison Nahm'/920793, l='ServerLevel[world]', x=-461.80, y=53.00, z=-289.48] died, message: 'Maddison Nahm was slain by Zombie'
+[20:32:57] [Server thread/INFO]: Named entity class_1646['Maddison Nahm'/920793, l='ServerLevel[world]', x=-461.80, y=53.00, z=-289.48] died: Maddison Nahm was slain by Zombie
+[20:33:12] [Server thread/INFO]: <felipaosxdd> tenia 23 ya pero cala me mato jaja
+[20:33:20] [Server thread/INFO]: <felipaosxdd> na
+[20:33:25] [Server thread/INFO]: <felipaosxdd> ya la consigo ahora
+[20:33:44] [Server thread/WARN]: Calamar892 moved too quickly! 69.04072328962195,-43.5,-25.86250001192093
+[20:34:04] [Server thread/WARN]: Calamar892 moved too quickly! -69.32749377908874,46.5,25.86250001192093
+[20:34:07] [Server thread/WARN]: Calamar892 moved too quickly! 490.4496107399269,9.733632006042484,-224.29725778966372
+[20:34:22] [Server thread/INFO]: <felipaosxdd> dasela a Asierito01OwO si quiere
+[20:34:36] [Server thread/INFO]: <felipaosxdd> dame 15
+[20:34:43] [Server thread/INFO]: <felipaosxdd> por rompeer las bolas jaja
+[20:34:49] [Server thread/INFO]: [Calamar892: Gave 15 experience levels to felipaosxdd]
+[20:35:01] [Server thread/INFO]: <felipaosxdd> t18
+[20:35:32] [Server thread/INFO]: [Calamar892: Gave 8 experience levels to felipaosxdd]
+[20:35:55] [Server thread/INFO]: <felipaosxdd> 26
+[20:36:39] [Server thread/INFO]: <felipaosxdd> llevemos esta mierda mas cerca
+[20:36:56] [Server thread/INFO]: <felipaosxdd> me voy a ir ya vengo
+[20:37:00] [Server thread/INFO]: felipaosxdd lost connection: Disconnected
+[20:37:00] [Server thread/INFO]: felipaosxdd left the game
+[20:37:06] [Server thread/INFO]: felipaosxdd[/127.46.195.96:60491] logged in with entity id 1264920 at (-480.21901143507705, 78.9375, -281.8157708930916)
+[20:37:06] [Server thread/INFO]: Sending server config values to client
+[20:37:06] [Server thread/INFO]: Syncing config to felipaosxdd (dda18968-c5f4-3eec-9435-758c8dea98b0)
+[20:37:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:37:06] [Server thread/INFO]: felipaosxdd joined the game
+[20:37:07] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[20:37:07] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player felipaosxdd. Claiming: GRAVE / Robbing: INVENTORY
+[20:37:07] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[20:37:07] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[20:37:07] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[20:37:07] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[20:37:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[20:37:13] [Server thread/INFO]: <felipaosxdd> jajaja
+[20:38:05] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
