@@ -844,6 +844,7 @@
       "apple": "2025-08-21 19:12:38 +0000",
       "potato": "2025-08-21 19:10:41 +0000",
       "bread": "2025-08-21 18:45:37 +0000",
+      "golden_apple": "2025-08-21 20:20:51 +0000",
       "cookie": "2025-08-21 18:55:13 +0000",
       "cooked_chicken": "2025-08-21 19:55:31 +0000",
       "cooked_salmon": "2025-08-21 19:15:23 +0000"
@@ -4055,6 +4056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-21 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-21 19:36:47 +0000"
@@ -4163,6 +4170,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-21 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-21 19:36:47 +0000"
@@ -4214,6 +4227,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-21 19:39:31 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-21 20:18:15 +0000"
     },
     "done": true
   },
@@ -4334,6 +4353,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-08-21 19:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-21 20:18:15 +0000"
     },
     "done": true
   },
