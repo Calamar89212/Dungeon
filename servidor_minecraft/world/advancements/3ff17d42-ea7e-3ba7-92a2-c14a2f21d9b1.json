@@ -1112,6 +1112,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-08-21 20:50:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:58:09 +0000"
@@ -1958,6 +1964,12 @@
     },
     "done": true
   },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "teleported_up": "2025-08-21 20:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-21 18:33:08 +0000"
@@ -2057,6 +2069,12 @@
   "awesomedungeonocean:ocean_cage/find_normal": {
     "criteria": {
       "requirement": "2025-08-21 20:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-08-21 20:51:43 +0000"
     },
     "done": true
   },
@@ -3137,6 +3155,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-21 18:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-08-21 20:56:43 +0000"
     },
     "done": true
   },

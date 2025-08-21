@@ -3995,6 +3995,12 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-08-21 20:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-21 20:07:15 +0000"
@@ -4040,6 +4046,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-08-21 20:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 20:48:34 +0000"
     },
     "done": true
   },
@@ -4136,6 +4148,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-08-21 20:56:39 +0000"
     },
     "done": true
   },
@@ -4268,6 +4286,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-08-21 20:10:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-21 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-08-21 20:53:51 +0000"
     },
     "done": true
   },
