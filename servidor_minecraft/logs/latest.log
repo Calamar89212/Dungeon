@@ -3569,3 +3569,32 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:04:58] [Server thread/INFO]: Neropou777 left the game
 [22:07:32] [Server thread/INFO]: Asierito01OwO lost connection: Disconnected
 [22:07:32] [Server thread/INFO]: Asierito01OwO left the game
+[22:21:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:21:28] [Server thread/INFO]: stop}<--[HERE]
+[22:21:32] [Server thread/INFO]: Stopping the server
+[22:21:32] [Server thread/INFO]: Async Locator -> Shutting down locating executor service
+[22:21:32] [Server thread/INFO]: Stopping server
+[22:21:33] [Server thread/INFO]: Saving players
+[22:21:33] [Server thread/INFO]: Saving worlds
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[22:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[22:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:21:34] [pool-2-thread-1/INFO]: Unloading server config for easyanvils
+[22:21:34] [pool-2-thread-1/INFO]: Unloading server config for easymagic
+[22:21:34] [pool-2-thread-1/INFO]: Unloading server config for puzzlesapi
