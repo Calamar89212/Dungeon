@@ -2111,3 +2111,48 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[20:39:19] [Server thread/INFO]: <felipaosxdd> no alcanza
+[20:39:26] [Server thread/INFO]: <felipaosxdd> 3 de lapiz mas
+[20:40:05] [Server thread/INFO]: felipaosxdd has made the advancement [Tactical Fishing]
+[20:40:25] [Server thread/WARN]: Calamar892 moved too quickly! -492.86250001192093,-7.5,219.2493584798138
+[20:40:44] [Server thread/WARN]: Calamar892 moved too quickly! 489.79053253270195,10.5,-224.7890215431371
+[20:41:16] [Server thread/INFO]: felipaosxdd has made the advancement [Playing with fire]
+[20:41:16] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
+[20:41:24] [Server thread/INFO]: <felipaosxdd> a
+[20:42:03] [Server thread/INFO]: <felipaosxdd> jajajA
+[20:42:05] [Server thread/INFO]: <felipaosxdd> jajajA
+[20:42:05] [Server thread/INFO]: <felipaosxdd> jajajA
+[20:42:06] [Server thread/INFO]: <felipaosxdd> jajajA
+[20:42:07] [Server thread/INFO]: <felipaosxdd> jajajA
+[20:43:14] [Server thread/INFO]: <felipaosxdd> yoyoyoyoy
+[20:43:21] [Server thread/INFO]: <felipaosxdd> sacala
+[20:43:28] [Server thread/INFO]: <felipaosxdd> pero tu polla no eso
+[20:43:32] [Server thread/INFO]: Neropou777 has made the advancement [This Must be a Sign!]
+[20:43:41] [Server thread/INFO]: <felipaosxdd> ahi
+[20:44:18] [Server thread/INFO]: Asierito01OwO was slain by felipaosxdd
+[20:44:24] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -404, 83, -260, minecraft:overworld
+[20:44:33] [Server thread/INFO]: Calamar892 has made the advancement [A Seedy Place]
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-274, y=25, z=-20}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-21}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-274, y=25, z=-24}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-23}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-24}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-270, y=28, z=-22}
+[20:45:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-270, y=22, z=-22}
+[20:45:21] [Server thread/INFO]: Asierito01OwO was slain by felipaosxdd
+[20:45:21] [Server thread/WARN]: Calamar892 moved wrongly!
+[20:45:33] [Server thread/INFO]: Asierito01OwO claimed a grave belonging to Asierito01OwO at -417, 80, -205, minecraft:overworld
+[20:45:52] [Server thread/INFO]: [Calamar892: Teleported Neropou777 to Calamar892]
+[20:46:04] [Server thread/INFO]: [Calamar892: Set 23 experience levels on Asierito01OwO]
+[20:46:24] [Server thread/INFO]: <felipaosxdd> porq
+[20:47:00] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/1317175, l='ServerLevel[world]', x=-333.50, y=70.00, z=-100.50]
+[20:47:00] [Server thread/WARN]: Calamar892 moved too quickly! -492.86250001192093,-7.5,218.88758206765397
+[20:47:07] [Server thread/INFO]: Villager class_1646['Quiquin Kaczmarski'/920011, l='ServerLevel[world]', x=-455.70, y=83.00, z=-279.30] died, message: 'Quiquin Kaczmarski blew up'
+[20:47:07] [Server thread/INFO]: Named entity class_1646['Quiquin Kaczmarski'/920011, l='ServerLevel[world]', x=-455.70, y=83.00, z=-279.30] died: Quiquin Kaczmarski blew up
+[20:47:09] [Server thread/INFO]: Villager class_1646['Barabba Racanelli the Oceanographer'/921282, l='ServerLevel[world]', x=-481.71, y=59.49, z=-290.47] died, message: 'Barabba Racanelli the Oceanographer was slain by Zombie'
+[20:47:09] [Server thread/INFO]: Named entity class_1646['Barabba Racanelli the Oceanographer'/921282, l='ServerLevel[world]', x=-481.71, y=59.49, z=-290.47] died: Barabba Racanelli the Oceanographer was slain by Zombie
+[20:47:12] [Server thread/INFO]: <felipaosxdd> si bb
+[20:47:26] [Server thread/INFO]: Named entity class_1451['Luna'/1316924, l='ServerLevel[world]', x=-429.95, y=83.00, z=-288.75] died: Luna was slain by felipaosxdd
+[20:48:14] [Server thread/INFO]: <felipaosxdd> quien sera?
+[20:48:22] [Server thread/INFO]: <felipaosxdd> creo q fue cala
+[20:48:55] [Server thread/INFO]: [Calamar892: Teleported Neropou777 to Calamar892]

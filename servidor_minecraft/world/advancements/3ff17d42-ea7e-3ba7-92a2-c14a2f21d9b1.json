@@ -1196,6 +1196,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-08-21 20:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-21 18:33:08 +0000"
