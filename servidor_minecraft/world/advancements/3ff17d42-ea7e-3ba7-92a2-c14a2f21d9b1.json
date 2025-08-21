@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-21 19:44:27 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-08-21 18:18:10 +0000"
@@ -236,6 +242,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-21 19:46:54 +0000"
     },
     "done": true
   },
@@ -575,6 +587,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
@@ -652,6 +670,12 @@
       "has_diamond": "2025-08-21 19:00:13 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-21 19:38:23 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
@@ -791,6 +815,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 19:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-21 18:58:09 +0000"
@@ -875,6 +905,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-21 19:37:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -884,6 +920,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -956,6 +998,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-21 18:53:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-08-21 19:44:28 +0000"
     },
     "done": true
   },
@@ -1034,6 +1082,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-08-21 18:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -1352,6 +1406,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-21 19:44:27 +0000"
     },
     "done": true
   },
@@ -1859,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -2057,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-21 19:42:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -2066,6 +2138,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 19:44:27 +0000"
     },
     "done": true
   },
@@ -2087,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-08-21 18:35:53 +0000"
@@ -2096,6 +2180,12 @@
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -2144,6 +2234,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -2459,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-21 19:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-21 18:25:46 +0000"
@@ -2516,6 +2618,12 @@
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -2666,6 +2774,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-21 19:35:14 +0000"
     },
     "done": true
   },
@@ -2843,6 +2957,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-21 19:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-21 19:23:24 +0000"
@@ -2939,6 +3059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -2963,6 +3089,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_pillager": "2025-08-21 19:37:13 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/leaping_zombie": {
     "criteria": {
       "requirement": "2025-08-21 19:02:33 +0000"
@@ -2978,6 +3110,12 @@
   "betterend:recipes/misc/looting_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
     },
     "done": true
   },
@@ -3029,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-21 18:25:40 +0000"
@@ -3050,6 +3194,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-21 19:40:13 +0000"
     },
     "done": true
   },
@@ -3137,6 +3287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-21 19:44:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -3206,6 +3362,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-08-21 18:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-08-21 19:44:28 +0000"
     },
     "done": true
   },
@@ -3299,6 +3461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-21 19:40:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-08-21 18:19:00 +0000"
@@ -3350,6 +3518,12 @@
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
       "in_water": "2025-08-21 18:25:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-21 19:35:14 +0000"
     },
     "done": true
   },
@@ -3503,6 +3677,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2025-08-21 19:37:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-08-21 19:00:05 +0000"
@@ -3587,6 +3767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-21 19:46:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-21 18:58:09 +0000"
@@ -3635,6 +3821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-21 19:41:04 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-08-21 18:20:10 +0000"
@@ -3644,6 +3836,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-08-21 18:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -3658,6 +3856,7 @@
       "minecraft:birch_forest": "2025-08-21 18:18:11 +0000",
       "minecraft:beach": "2025-08-21 18:19:52 +0000",
       "minecraft:river": "2025-08-21 18:27:05 +0000",
+      "minecraft:cold_ocean": "2025-08-21 19:36:56 +0000",
       "minecraft:forest": "2025-08-21 18:26:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-21 18:31:59 +0000",
       "minecraft:plains": "2025-08-21 19:32:11 +0000"
@@ -3743,6 +3942,12 @@
       "carrot": "2025-08-21 19:17:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-21 19:46:54 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/gold_door": {
     "criteria": {
