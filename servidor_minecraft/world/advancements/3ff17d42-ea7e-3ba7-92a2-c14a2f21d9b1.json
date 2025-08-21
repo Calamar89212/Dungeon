@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-21 21:53:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-21 21:49:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-21 18:21:50 +0000"
@@ -488,6 +500,12 @@
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-08-21 19:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-21 22:01:36 +0000"
     },
     "done": true
   },
@@ -848,6 +866,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-08-21 21:53:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -1124,6 +1148,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-08-21 21:53:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-08-21 18:58:09 +0000"
@@ -1199,6 +1229,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-21 18:46:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-08-21 21:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-21 22:01:36 +0000"
     },
     "done": true
   },
@@ -1628,6 +1670,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-08-21 21:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-21 18:30:08 +0000"
@@ -1859,6 +1907,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-08-21 18:18:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-08-21 21:58:04 +0000"
     },
     "done": true
   },
@@ -2210,6 +2264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-21 21:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-21 18:19:50 +0000"
@@ -2417,6 +2477,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-21 18:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-21 21:58:04 +0000"
     },
     "done": true
   },
@@ -2981,6 +3047,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-21 22:01:36 +0000"
     },
     "done": true
   },
@@ -4136,6 +4208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-21 21:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-08-21 18:35:53 +0000"
@@ -4181,6 +4259,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-08-21 18:33:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-21 21:49:45 +0000"
     },
     "done": true
   },
