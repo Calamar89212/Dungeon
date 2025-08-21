@@ -844,6 +844,7 @@
       "potato": "2025-08-21 19:10:41 +0000",
       "bread": "2025-08-21 18:45:37 +0000",
       "cookie": "2025-08-21 18:55:13 +0000",
+      "cooked_chicken": "2025-08-21 19:55:31 +0000",
       "cooked_salmon": "2025-08-21 19:15:23 +0000"
     },
     "done": false
@@ -3914,9 +3915,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-21 19:55:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-21 19:36:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-08-21 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-21 19:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-21 19:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-21 19:49:35 +0000"
     },
     "done": true
   },
@@ -3929,6 +3960,18 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-21 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-08-21 19:56:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 19:49:35 +0000"
     },
     "done": true
   },
@@ -3950,9 +3993,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-21 19:55:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-21 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-21 19:49:35 +0000"
     },
     "done": true
   },
@@ -3971,6 +4026,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-21 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-08-21 19:55:52 +0000"
     },
     "done": true
   },
@@ -4004,9 +4065,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-08-21 19:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-21 19:57:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-21 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-21 19:57:45 +0000"
     },
     "done": true
   },
@@ -4019,6 +4098,18 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-21 19:39:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-21 19:55:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-08-21 19:55:52 +0000"
     },
     "done": true
   },
@@ -4037,6 +4128,12 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-21 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-21 19:49:35 +0000"
     },
     "done": true
   },

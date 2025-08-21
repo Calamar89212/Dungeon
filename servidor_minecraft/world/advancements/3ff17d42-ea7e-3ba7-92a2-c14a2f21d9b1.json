@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-08-21 19:55:36 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-08-21 19:17:41 +0000"
@@ -242,6 +248,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-21 19:54:34 +0000"
     },
     "done": true
   },
@@ -673,7 +685,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-08-21 19:38:23 +0000"
+      "minecraft:pillager": "2025-08-21 19:38:23 +0000",
+      "minecraft:vindicator": "2025-08-21 19:57:07 +0000"
     },
     "done": false
   },
@@ -917,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:13 +0000"
@@ -1079,6 +1098,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-08-21 18:33:52 +0000"
@@ -1238,6 +1269,12 @@
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
     },
     "done": true
   },
@@ -2177,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-21 19:54:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -2471,6 +2514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -2564,6 +2613,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-21 18:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-21 19:48:36 +0000"
     },
     "done": true
   },
@@ -2849,6 +2904,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -3008,6 +3069,12 @@
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
     },
     "done": true
   },
@@ -3233,6 +3300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-21 19:56:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:20:10 +0000"
@@ -3332,6 +3405,12 @@
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-08-21 19:50:32 +0000"
     },
     "done": true
   },
@@ -3617,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_taburet": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
@@ -3635,9 +3720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-21 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
     },
     "done": true
   },
@@ -3991,6 +4088,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-21 19:54:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-21 19:00:13 +0000"
@@ -4006,6 +4109,12 @@
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 19:57:56 +0000"
     },
     "done": true
   },

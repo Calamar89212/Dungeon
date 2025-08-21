@@ -2196,7 +2196,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-21 19:51:37 +0000",
       "bread": "2025-08-21 18:30:09 +0000",
+      "rotten_flesh": "2025-08-21 19:48:44 +0000",
       "carrot": "2025-08-21 18:42:22 +0000"
     },
     "done": false
@@ -3830,6 +3832,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-21 19:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-21 19:37:19 +0000"
@@ -3869,6 +3877,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-21 19:51:35 +0000"
     },
     "done": true
   },
@@ -3977,6 +3991,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-08-21 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-21 19:51:35 +0000"
     },
     "done": true
   },

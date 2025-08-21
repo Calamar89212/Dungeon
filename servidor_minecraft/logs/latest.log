@@ -1801,3 +1801,39 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [19:47:09] [Server thread/INFO]: Neropou777 has made the advancement [What a Deal!]
 [19:47:46] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to felipaosxdd]
 [19:47:48] [Server thread/INFO]: Asierito01OwO has made the advancement [What a Deal!]
+[19:48:52] [Server thread/INFO]: Named entity class_1604['Ulva Sauerland the Pillager'/903626, l='ServerLevel[world]', x=-1022.11, y=65.00, z=58.49] died: Ulva Sauerland the Pillager was burnt to a crisp whilst fighting Asierito01OwO
+[19:48:57] [Server thread/INFO]: Named entity class_1604['Filya Youse the Pillager'/903609, l='ServerLevel[world]', x=-1022.06, y=65.42, z=60.32] died: Filya Youse the Pillager was slain by Asierito01OwO
+[19:49:03] [Server thread/INFO]: Named entity class_1604['Calley Tackitt the Pillager'/903624, l='ServerLevel[world]', x=-1021.03, y=65.00, z=57.30] died: Calley Tackitt the Pillager was shot by Neropou777
+[19:49:06] [Server thread/INFO]: Named entity class_1604['Garlyn MacAdam the Pillager'/903625, l='ServerLevel[world]', x=-1024.01, y=65.00, z=61.30] died: Garlyn MacAdam the Pillager was slain by Asierito01OwO
+[19:49:07] [Server thread/INFO]: Named entity class_1604['Ayaan Scheets the Pillager'/903619, l='ServerLevel[world]', x=-1023.70, y=66.00, z=59.99] died: Ayaan Scheets the Pillager was slain by Asierito01OwO
+[19:50:15] [Server thread/INFO]: Named entity class_1604['Gavrila Borgo the Pillager'/903607, l='ServerLevel[world]', x=-1021.70, y=62.00, z=59.68] died: Gavrila Borgo the Pillager was slain by Neropou777
+[19:50:21] [Server thread/INFO]: Named entity class_1604['Rajesh Paduano the Pillager'/903606, l='ServerLevel[world]', x=-1021.70, y=64.91, z=60.14] died: Rajesh Paduano the Pillager was slain by Neropou777
+[19:50:33] [Server thread/INFO]: Named entity class_1604['Yemon Gach the Pillager'/903621, l='ServerLevel[world]', x=-1019.66, y=62.00, z=49.87] died: Yemon Gach the Pillager was slain by Neropou777
+[19:50:36] [Server thread/INFO]: [Calamar892: Set own game mode to Spectator Mode]
+[19:50:38] [Server thread/INFO]: Named entity class_1604['Kieffer Collicott the Pillager'/903620, l='ServerLevel[world]', x=-1019.30, y=62.00, z=41.96] died: Kieffer Collicott the Pillager was slain by Neropou777
+[19:50:50] [Server thread/INFO]: [Calamar892: Set own game mode to Survival Mode]
+[19:51:40] [Server thread/INFO]: Named entity class_1604['Marigold Idle the Pillager'/903622, l='ServerLevel[world]', x=-1019.30, y=62.00, z=64.70] died: Marigold Idle the Pillager was slain by Neropou777
+[19:53:36] [Server thread/INFO]: <felipaosxdd> una mujer pa q limpie
+[19:54:50] [Server thread/INFO]: Named entity class_1604['Mari Finzel the Pillager'/903627, l='ServerLevel[world]', x=-899.04, y=62.59, z=154.33] died: Mari Finzel the Pillager was slain by Neropou777
+[19:55:04] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around class_2338{x=-907, y=42, z=150} within 50 chunks
+[19:55:06] [asynclocator-1-thread-1/INFO]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at class_2338{x=-439, y=0, z=9} (took 1,656ms)
+[19:55:06] [Server thread/INFO]: Async Locator -> Location found - updating treasure map in chest
+[19:55:24] [Server thread/WARN]: Boat (vehicle of Neropou777) moved wrongly! 0.4424899653109833
+[19:55:35] [Server thread/INFO]: Asierito01OwO has made the advancement [You Are A Pirate]
+[19:55:36] [Server thread/INFO]: Neropou777 has made the advancement [You Are A Pirate]
+[19:55:50] [Server thread/INFO]: Named entity class_1604['Tyreece Alegre the Pillager'/902279, l='ServerLevel[world]', x=-856.50, y=67.00, z=110.50] died: Tyreece Alegre the Pillager was slain by Asierito01OwO
+[19:55:52] [Server thread/INFO]: Named entity class_1604['Calliste Gregorius the Pillager'/903307, l='ServerLevel[world]', x=-856.50, y=67.00, z=112.50] died: Calliste Gregorius the Pillager was slain by Asierito01OwO
+[19:55:56] [Server thread/INFO]: Asierito01OwO has made the advancement [Suit Up]
+[19:56:03] [Server thread/INFO]: Named entity class_1604['Franz Alesi the Pillager'/903290, l='ServerLevel[world]', x=-865.50, y=67.00, z=115.50] died: Franz Alesi the Pillager was slain by Asierito01OwO
+[19:56:08] [Server thread/INFO]: Named entity class_1604['Ertha Baynes the Pillager'/902981, l='ServerLevel[world]', x=-865.50, y=67.00, z=107.50] died: Ertha Baynes the Pillager was slain by Neropou777
+[19:56:16] [Server thread/INFO]: Named entity class_1604['Raileigh Nuckolls the Pillager'/902980, l='ServerLevel[world]', x=-871.50, y=67.00, z=108.50] died: Raileigh Nuckolls the Pillager was slain by Asierito01OwO
+[19:56:22] [Server thread/INFO]: Named entity class_1604['Jannus Borneman the Pillager'/903289, l='ServerLevel[world]', x=-871.50, y=67.00, z=114.50] died: Jannus Borneman the Pillager was slain by Neropou777
+[19:56:29] [Server thread/INFO]: Named entity class_1604['Germayne MacGregor the Pillager'/903291, l='ServerLevel[world]', x=-874.50, y=67.00, z=113.50] died: Germayne MacGregor the Pillager was slain by Neropou777
+[19:56:29] [Server thread/INFO]: Named entity class_1604['Hsin Reiter the Pillager'/902982, l='ServerLevel[world]', x=-874.50, y=67.00, z=109.50] died: Hsin Reiter the Pillager was slain by Asierito01OwO
+[19:56:51] [Server thread/INFO]: felipaosxdd has made the advancement [The Parrots and the Bats]
+[19:57:07] [Server thread/INFO]: Named entity class_1632['Dacso Bewley the Vindicator'/912890, l='ServerLevel[world]', x=-871.51, y=64.00, z=110.59] died: Dacso Bewley the Vindicator was slain by Neropou777
+[19:57:09] [Server thread/INFO]: Named entity class_1632['Martha Scherb the Vindicator'/913018, l='ServerLevel[world]', x=-871.70, y=64.00, z=111.30] died: Martha Scherb the Vindicator was slain by Neropou777
+[19:57:10] [Server thread/INFO]: Named entity class_1632['Kiener Nicolette the Vindicator'/912889, l='ServerLevel[world]', x=-871.35, y=64.00, z=111.30] died: Kiener Nicolette the Vindicator was slain by Neropou777
+[19:57:33] [Server thread/INFO]: Named entity class_1632['Loker Alleva the Vindicator'/913362, l='ServerLevel[world]', x=-866.46, y=64.00, z=111.12] died: Loker Alleva the Vindicator was slain by Asierito01OwO
+[19:57:35] [Server thread/INFO]: Named entity class_1632['Evanne Eales the Vindicator'/913169, l='ServerLevel[world]', x=-866.30, y=64.00, z=111.87] died: Evanne Eales the Vindicator was slain by Asierito01OwO
+[19:58:09] [Server thread/INFO]: Asierito01OwO has made the advancement [Hunt and Gather]
