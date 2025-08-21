@@ -3134,6 +3134,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2025-08-21 21:11:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-21 18:25:46 +0000"
@@ -4206,6 +4212,7 @@
     "criteria": {
       "cooked_cod": "2025-08-21 19:04:51 +0000",
       "bread": "2025-08-21 18:26:02 +0000",
+      "golden_apple": "2025-08-21 21:15:02 +0000",
       "carrot": "2025-08-21 19:17:53 +0000"
     },
     "done": false
