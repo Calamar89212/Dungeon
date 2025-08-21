@@ -3837,9 +3837,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-08-21 20:36:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -3875,6 +3893,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/runner": {
     "criteria": {
       "requirement": "2025-08-21 20:32:03 +0000"
@@ -3884,6 +3908,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-21 19:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2025-08-21 21:00:58 +0000"
     },
     "done": true
   },
@@ -3929,6 +3959,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-21 19:37:19 +0000"
@@ -3950,6 +3986,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -3989,6 +4031,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2025-08-21 20:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-21 19:30:17 +0000"
@@ -4004,6 +4052,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-21 20:07:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -4043,6 +4097,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-08-21 20:07:15 +0000"
@@ -4067,6 +4133,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
@@ -4076,6 +4148,18 @@
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-08-21 19:30:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -4139,6 +4223,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
@@ -4154,6 +4244,12 @@
   "minecells:ramparts": {
     "criteria": {
       "requirement": "2025-08-21 20:56:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -4175,6 +4271,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-08-21 19:30:17 +0000"
@@ -4184,6 +4286,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-21 20:36:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -4253,6 +4361,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-21 20:07:15 +0000"
@@ -4289,6 +4409,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-08-21 20:58:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-08-21 20:48:34 +0000"
@@ -4298,6 +4424,12 @@
   "minecells:elite": {
     "criteria": {
       "obelisk_activated": "2025-08-21 20:53:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
@@ -4316,6 +4448,12 @@
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-08-21 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-21 21:04:14 +0000"
     },
     "done": true
   },
