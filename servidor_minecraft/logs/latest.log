@@ -1585,3 +1585,52 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [19:17:30] [Server thread/WARN]: Calamar892 moved too quickly! -69.43936666702575,46.5,25.86250001192093
 [19:17:32] [Server thread/INFO]: Neropou777 has made the advancement [Love the serenity...]
 [19:17:32] [Server thread/WARN]: Neropou777 moved too quickly! -68.78775358262646,46.5,25.86250001192093
+[19:18:28] [Server thread/WARN]: Neropou777 moved too quickly! 490.26476151218606,10.5,-225.06750713232833
+[19:18:34] [Server thread/WARN]: Asierito01OwO moved too quickly! 489.9947562976613,10.5,-224.89387072884924
+[19:18:49] [Server thread/WARN]: felipaosxdd moved too quickly! 490.3750042856125,9.733632006042484,-224.3221764979218
+[19:18:50] [Server thread/WARN]: Calamar892 moved too quickly! 490.25036169467717,10.5,-225.01071392402014
+[19:19:16] [Server thread/INFO]: <felipaosxdd> preparo casa?
+[19:20:42] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-527, y=-2, z=0}
+[19:20:42] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-533, y=-2, z=8}
+[19:20:42] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-529, y=-2, z=8}
+[19:20:42] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-535, y=-2, z=0}
+[19:20:51] [Server thread/INFO]: Villager class_1646['Irene Vorderbruggen'/839744, l='ServerLevel[world]', x=-413.78, y=85.00, z=-286.78] died, message: 'Irene Vorderbruggen suffocated in a wall'
+[19:20:51] [Server thread/INFO]: Named entity class_1646['Irene Vorderbruggen'/839744, l='ServerLevel[world]', x=-413.78, y=85.00, z=-286.78] died: Irene Vorderbruggen suffocated in a wall
+[19:20:53] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-483, y=-12, z=17}
+[19:20:53] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-483, y=-11, z=16}
+[19:20:53] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-504, y=-25, z=17}
+[19:21:00] [Server thread/INFO]: <felipaosxdd> no avance a lootear mucho
+[19:21:29] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/897783, l='ServerLevel[world]', x=-343.50, y=73.00, z=-127.50]
+[19:23:26] [Server thread/INFO]: Calamar892 has made the advancement [Isn't It Iron Pick]
+[19:24:39] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/898576, l='ServerLevel[world]', x=-345.50, y=73.00, z=-127.50]
+[19:25:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/898897, l='ServerLevel[world]', x=-344.50, y=73.00, z=-129.50]
+[19:26:07] [Server thread/INFO]: Neropou777 has made the advancement [Isn't It Iron Pick]
+[19:26:20] [Server thread/INFO]: Asierito01OwO has made the advancement [A Seedy Place]
+[19:27:33] [Server thread/INFO]: Calamar892 lost connection: Timed out
+[19:27:33] [Server thread/INFO]: Calamar892 left the game
+[19:27:33] [Server thread/WARN]: handleDisconnection() called twice
+[19:27:42] [Server thread/INFO]: Calamar892[/127.103.88.164:52469] logged in with entity id 899478 at (-425.69999998807907, 67.0, -320.30000001192093)
+[19:27:42] [Server thread/INFO]: Sending server config values to client
+[19:27:42] [Server thread/INFO]: Syncing config to Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a)
+[19:27:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:27:42] [Server thread/INFO]: Calamar892 joined the game
+[19:27:42] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[19:27:44] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Calamar892. Claiming: GRAVE / Robbing: INVENTORY
+[19:27:44] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:27:44] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:27:44] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:27:44] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:27:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
