@@ -1837,3 +1837,105 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [19:57:33] [Server thread/INFO]: Named entity class_1632['Loker Alleva the Vindicator'/913362, l='ServerLevel[world]', x=-866.46, y=64.00, z=111.12] died: Loker Alleva the Vindicator was slain by Asierito01OwO
 [19:57:35] [Server thread/INFO]: Named entity class_1632['Evanne Eales the Vindicator'/913169, l='ServerLevel[world]', x=-866.30, y=64.00, z=111.87] died: Evanne Eales the Vindicator was slain by Asierito01OwO
 [19:58:09] [Server thread/INFO]: Asierito01OwO has made the advancement [Hunt and Gather]
+[20:00:09] [Server thread/INFO]: felipaosxdd has made the advancement [Monster Hunter]
+[20:01:04] [Server thread/INFO]: Asierito01OwO has completed the challenge [Find: Ruin pillager]
+[20:02:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/915315, l='ServerLevel[world]', x=-695.50, y=77.00, z=2.50]
+[20:02:11] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-431, y=65, z=176}
+[20:02:11] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-431, y=65, z=176}
+[20:02:17] [Server thread/INFO]: Calamar892 has made the advancement [Ardent Defender]
+[20:02:17] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: paladins:paladin isComplete: false
+[20:02:18] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: paladins:paladin isComplete: false
+[20:02:22] [Server thread/INFO]: Neropou777 has completed the challenge [Find: Cage]
+[20:02:24] [Server thread/INFO]: Asierito01OwO has completed the challenge [Find: Cage]
+[20:02:29] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:02:29] [Server thread/INFO]: Calamar892 has completed the challenge [Find: Cage]
+[20:03:04] [Server thread/INFO]: Named entity class_1439['Pursuit'/839246, l='ServerLevel[world]', x=-337.08, y=101.00, z=-258.00] died: Pursuit was slain by felipaosxdd
+[20:03:17] [Server thread/INFO]: Named entity class_1604['Teyacapan Blevins the Pillager'/914596, l='ServerLevel[world]', x=-630.32, y=62.53, z=126.10] died: Teyacapan Blevins the Pillager was slain by Asierito01OwO
+[20:03:30] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/916212, l='ServerLevel[world]', x=-637.50, y=81.00, z=-15.50]
+[20:03:31] [Server thread/INFO]: Named entity class_1604['Pangi Markovski the Pillager'/914577, l='ServerLevel[world]', x=-612.91, y=62.60, z=123.10] died: Pangi Markovski the Pillager was slain by Calamar892
+[20:03:34] [Server thread/INFO]: Named entity class_1604['Hosheia La Viola the Pillager'/914597, l='ServerLevel[world]', x=-609.30, y=62.12, z=121.30] died: Hosheia La Viola the Pillager was slain by Calamar892
+[20:03:40] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around class_2338{x=-643, y=47, z=128} within 50 chunks
+[20:03:40] [asynclocator-1-thread-1/INFO]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at class_2338{x=-439, y=0, z=9} (took 266ms)
+[20:03:40] [Server thread/INFO]: Async Locator -> Location found - updating treasure map in chest
+[20:03:55] [Server thread/INFO]: Named entity class_1604['Gratah Espenshade the Pillager'/914576, l='ServerLevel[world]', x=-611.20, y=65.00, z=114.70] died: Gratah Espenshade the Pillager was slain by Asierito01OwO
+[20:04:01] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/918264, l='ServerLevel[world]', x=-638.50, y=81.00, z=-15.50]
+[20:04:01] [Server thread/INFO]: Named entity class_1604['Calley Renz the Pillager'/914575, l='ServerLevel[world]', x=-605.51, y=65.00, z=112.30] died: Calley Renz the Pillager was slain by Asierito01OwO
+[20:04:01] [Server thread/INFO]: Named entity class_1604['Palmer Del Greco the Pillager'/914621, l='ServerLevel[world]', x=-604.91, y=65.00, z=114.68] died: Palmer Del Greco the Pillager was slain by Asierito01OwO
+[20:04:04] [Server thread/INFO]: Named entity class_1604['Dafydd Rentfrow the Pillager'/914598, l='ServerLevel[world]', x=-606.63, y=65.00, z=114.69] died: Dafydd Rentfrow the Pillager was slain by Neropou777
+[20:04:05] [Server thread/INFO]: Named entity class_1604['Pinchas Rensing the Pillager'/914623, l='ServerLevel[world]', x=-602.30, y=65.00, z=118.70] died: Pinchas Rensing the Pillager was slain by Asierito01OwO
+[20:04:07] [Server thread/INFO]: Named entity class_1604['Yardeniya Greger the Pillager'/914622, l='ServerLevel[world]', x=-603.19, y=65.00, z=114.50] died: Yardeniya Greger the Pillager was slain by Asierito01OwO
+[20:04:25] [Server thread/INFO]: Named entity class_1604['Usa Cleckner the Pillager'/914617, l='ServerLevel[world]', x=-604.70, y=62.42, z=116.62] died: Usa Cleckner the Pillager was slain by Calamar892
+[20:04:25] [Server thread/INFO]: Named entity class_1604['Triffena Buttner the Pillager'/914594, l='ServerLevel[world]', x=-606.31, y=62.00, z=114.78] died: Triffena Buttner the Pillager was slain by Neropou777
+[20:04:31] [Server thread/INFO]: Named entity class_1604['Dusan Waggett the Pillager'/914618, l='ServerLevel[world]', x=-603.76, y=62.00, z=114.90] died: Dusan Waggett the Pillager was slain by Neropou777
+[20:04:36] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to felipaosxdd]
+[20:04:44] [Server thread/INFO]: Named entity class_1604['Oberone Getman the Pillager'/914619, l='ServerLevel[world]', x=-608.38, y=62.00, z=116.57] died: Oberone Getman the Pillager was slain by Neropou777
+[20:04:48] [Server thread/INFO]: Named entity class_1604['Taja Weise the Pillager'/914595, l='ServerLevel[world]', x=-612.05, y=62.00, z=116.30] died: Taja Weise the Pillager was slain by Asierito01OwO
+[20:05:05] [Server thread/INFO]: felipaosxdd has made the advancement [Gravedigger]
+[20:05:17] [Server thread/INFO]: <felipaosxdd> si puedes ir por trigo para reproducir objeas
+[20:05:25] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921033, l='ServerLevel[world]', x=-334.50, y=70.00, z=-98.50]
+[20:05:25] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921035, l='ServerLevel[world]', x=-658.50, y=73.00, z=13.50]
+[20:05:29] [Server thread/INFO]: Villager class_1646['Fariqua Emilio'/919967, l='ServerLevel[world]', x=-460.81, y=53.04, z=-291.60] died, message: 'Fariqua Emilio was slain by Zombie'
+[20:05:29] [Server thread/INFO]: Named entity class_1646['Fariqua Emilio'/919967, l='ServerLevel[world]', x=-460.81, y=53.04, z=-291.60] died: Fariqua Emilio was slain by Zombie
+[20:05:38] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:06:34] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921534, l='ServerLevel[world]', x=-642.50, y=74.00, z=8.50]
+[20:06:37] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921556, l='ServerLevel[world]', x=-643.50, y=74.00, z=10.50]
+[20:06:48] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921623, l='ServerLevel[world]', x=-657.50, y=73.00, z=12.50]
+[20:06:51] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921642, l='ServerLevel[world]', x=-659.50, y=73.00, z=13.50]
+[20:07:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921813, l='ServerLevel[world]', x=-657.50, y=73.00, z=11.50]
+[20:07:31] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/921848, l='ServerLevel[world]', x=-609.50, y=71.00, z=-0.50]
+[20:07:49] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:50] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:51] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:52] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:53] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:53] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:54] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:55] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:55] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:57] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:58] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:07:59] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:00] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:00] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:01] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:02] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:03] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[20:08:04] [Server thread/WARN]: Boat (vehicle of Asierito01OwO) moved wrongly! 0.5011884990657052
+[20:08:04] [Server thread/WARN]: Boat (vehicle of Asierito01OwO) moved wrongly! 0.46124511244011046
+[20:08:04] [Server thread/WARN]: Boat (vehicle of Asierito01OwO) moved wrongly! 0.4022487967119446
+[20:08:04] [Server thread/WARN]: Boat (vehicle of Asierito01OwO) moved wrongly! 0.4022487967119446
+[20:08:14] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around class_2338{x=-412, y=65, z=168} within 50 chunks
+[20:08:14] [asynclocator-1-thread-1/INFO]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at class_2338{x=-343, y=0, z=249} (took 34ms)
+[20:08:14] [Server thread/INFO]: Async Locator -> Location found - updating treasure map in chest
+[20:08:14] [Server thread/WARN]: Async Locator -> Couldn't find chest block entity on block Block{minecraft:barrel}[facing=south,open=true] at class_2338{x=-412, y=65, z=168}
+[20:08:25] [Server thread/INFO]: Neropou777 has made the advancement [Crops of the Wild]
+[20:10:28] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/923225, l='ServerLevel[world]', x=-374.50, y=87.00, z=190.50]
+[20:10:41] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/923311, l='ServerLevel[world]', x=-403.50, y=100.00, z=204.50]
+[20:11:04] [Server thread/INFO]: Calamar892 has made the advancement [Crops of the Wild]
+[20:11:07] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/923440, l='ServerLevel[world]', x=-375.50, y=87.00, z=192.50]
+[20:11:54] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/923681, l='ServerLevel[world]', x=-444.50, y=73.00, z=58.50]
+[20:11:57] [Server thread/INFO]: <felipaosxdd> duermen?
+[20:12:04] [Server thread/INFO]: [Calamar892: Teleported Calamar892 to Neropou777]
+[20:12:09] [Server thread/INFO]: [Calamar892: Teleported Asierito01OwO to Calamar892]
+[20:12:53] [Server thread/INFO]: <felipaosxdd> tienen cama?
+[20:13:14] [Server thread/INFO]: <Asierito01OwO> zzzzzzzzz
+[20:13:14] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:14] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:14] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:14] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:15] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:15] [Server thread/INFO]: <Asierito01OwO> z
+[20:13:48] [Server thread/INFO]: Named entity class_1439['Dynamic Information Cyborg'/919962, l='ServerLevel[world]', x=-440.57, y=84.13, z=-289.45] died: Dynamic Information Cyborg was slain by felipaosxdd
+[20:14:10] [Server thread/INFO]: Neropou777 has made the advancement [Taste for Blood]
+[20:14:10] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: rogues:warrior isComplete: false
+[20:14:16] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: rogues:warrior isComplete: false
+[20:15:22] [Server thread/INFO]: Asierito01OwO has made the advancement [Magic Attunement]
+[20:15:22] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[20:15:22] [Server thread/INFO]: <felipaosxdd> yunque?
+[20:15:23] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[20:16:42] [Server thread/INFO]: <felipaosxdd> tien yunq?
+[20:17:05] [Server thread/INFO]: Asierito01OwO has made the advancement [Path of Fire]
+[20:17:09] [Server thread/INFO]: Asierito01OwO has made the advancement [Playing with fire]
+[20:17:09] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
+[20:18:25] [Server thread/INFO]: <felipaosxdd> 4 amatista yo
+[20:18:34] [Server thread/INFO]: <felipaosxdd> q voy a usar para
