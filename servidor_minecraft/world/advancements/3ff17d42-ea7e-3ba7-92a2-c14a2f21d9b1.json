@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-08-21 21:25:13 +0000"
+    },
+    "done": true
+  },
   "minecells:root": {
     "criteria": {
       "requirement": "2025-08-21 18:59:26 +0000"
@@ -1406,6 +1412,12 @@
     },
     "done": true
   },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-08-21 21:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2025-08-21 18:21:01 +0000"
@@ -1787,6 +1799,12 @@
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-08-21 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2025-08-21 21:30:20 +0000"
     },
     "done": true
   },
@@ -4210,9 +4228,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-08-21 21:32:27 +0000",
       "cooked_cod": "2025-08-21 19:04:51 +0000",
       "bread": "2025-08-21 18:26:02 +0000",
       "golden_apple": "2025-08-21 21:15:02 +0000",
+      "enchanted_golden_apple": "2025-08-21 21:18:49 +0000",
       "carrot": "2025-08-21 19:17:53 +0000"
     },
     "done": false

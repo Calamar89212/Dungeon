@@ -3771,6 +3771,12 @@
     },
     "done": true
   },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-08-21 21:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-21 19:44:48 +0000"
@@ -3998,6 +4004,12 @@
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-08-21 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-08-21 21:30:20 +0000"
     },
     "done": true
   },
@@ -4238,6 +4250,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 19:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2025-08-21 21:20:30 +0000"
     },
     "done": true
   },
