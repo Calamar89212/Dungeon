@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-08-21 19:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-21 19:10:49 +0000"
@@ -826,6 +832,12 @@
       "has_stick": "2025-08-21 18:22:18 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-08-21 19:26:20 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
@@ -3288,6 +3300,12 @@
   "supplementaries:recipes/decorations/ecologics/sign_post_coconut": {
     "criteria": {
       "has_planks": "2025-08-21 18:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-21 19:26:20 +0000"
     },
     "done": true
   },

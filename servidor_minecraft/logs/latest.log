@@ -1634,3 +1634,150 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [19:27:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [19:27:44] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:29:24] [Server thread/INFO]: felipaosxdd has made the advancement [A Seedy Place]
+[19:29:42] [Server thread/INFO]: Calamar892 lost connection: Timed out
+[19:29:42] [Server thread/INFO]: Calamar892 left the game
+[19:29:44] [Server thread/INFO]: <felipaosxdd> lee
+[19:29:46] [Server thread/INFO]: Calamar892[/127.103.88.164:46697] logged in with entity id 899935 at (-425.30000001192093, 67.0, -320.37461451905443)
+[19:29:46] [Server thread/INFO]: Sending server config values to client
+[19:29:46] [Server thread/INFO]: Syncing config to Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a)
+[19:29:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:29:46] [Server thread/INFO]: Calamar892 joined the game
+[19:29:46] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[19:29:48] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Calamar892. Claiming: GRAVE / Robbing: INVENTORY
+[19:29:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:29:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:29:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:29:48] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:29:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:30:00] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos class_2338{x=-549, y=78, z=-517}
+[19:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[19:30:04] [Server thread/WARN]: felipaosxdd moved too quickly! -7.098642216519352,0.7531999805212024,7.447299252234558
+[19:30:35] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-475, y=-11, z=37}
+[19:30:35] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-481, y=-11, z=37}
+[19:30:36] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/900281, l='ServerLevel[world]', x=-343.50, y=73.00, z=-128.50]
+[19:31:24] [Server thread/WARN]: Calamar892 moved wrongly!
+[19:31:51] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/901463, l='ServerLevel[world]', x=-335.50, y=70.00, z=-98.50]
+[19:32:00] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-245, y=25, z=-23}
+[19:32:00] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-252, y=22, z=-20}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-274, y=25, z=-20}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-21}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-274, y=25, z=-24}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-23}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=25, z=-24}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-270, y=28, z=-22}
+[19:32:00] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-270, y=22, z=-22}
+[19:32:13] [pool-9-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=-821, y=85, z=-187}
+[19:32:29] [Server thread/INFO]: <felipaosxdd> dijeron algo
+[19:32:44] [Server thread/INFO]: <Neropou777> zz
+[19:32:44] [Server thread/INFO]: <Neropou777> z
+[19:32:44] [Server thread/INFO]: <Neropou777> z
+[19:32:44] [Server thread/INFO]: <Neropou777> z
+[19:32:45] [Server thread/INFO]: <Neropou777> z
+[19:32:45] [Server thread/INFO]: <Neropou777> zz
+[19:32:45] [Server thread/INFO]: <Neropou777> z
+[19:32:46] [Server thread/INFO]: <Neropou777> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19:33:48] [Server thread/INFO]: <Neropou777> z
+[19:33:49] [Server thread/INFO]: <Neropou777> z
+[19:33:49] [Server thread/INFO]: <Neropou777> z
+[19:33:49] [Server thread/INFO]: <Neropou777> z
+[19:33:49] [Server thread/INFO]: <Neropou777> z
+[19:33:50] [Server thread/INFO]: <Neropou777> z
+[19:33:50] [Server thread/INFO]: <Neropou777> z
+[19:34:11] [Server thread/INFO]: <felipaosxdd> Asierito01OwO duerme
+[19:34:18] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:18] [Server thread/INFO]: <Asierito01OwO> NO TENGO CAMA
+[19:34:19] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:20] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:20] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:21] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:22] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:22] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:23] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:23] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:24] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:24] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:25] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:26] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:26] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:27] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:27] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:28] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:28] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:29] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:29] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:30] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:30] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:31] [Server thread/INFO]: <felipaosxdd> Asierito01OwO
+[19:34:31] [Server thread/INFO]: felipaosxdd lost connection: Kicked for spamming
+[19:34:31] [Server thread/INFO]: felipaosxdd left the game
+[19:34:35] [Server thread/INFO]: Asierito01OwO lost connection: Disconnected
+[19:34:35] [Server thread/INFO]: Asierito01OwO left the game
+[19:34:36] [Server thread/INFO]: felipaosxdd[/127.46.195.96:52615] logged in with entity id 902820 at (-367.5, 97.5, -268.5)
+[19:34:36] [Server thread/INFO]: Sending server config values to client
+[19:34:36] [Server thread/INFO]: Syncing config to felipaosxdd (dda18968-c5f4-3eec-9435-758c8dea98b0)
+[19:34:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:34:36] [Server thread/INFO]: felipaosxdd joined the game
+[19:34:37] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[19:34:37] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player felipaosxdd. Claiming: GRAVE / Robbing: INVENTORY
+[19:34:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:34:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:34:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:34:37] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:34:37] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:34:40] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/902844, l='ServerLevel[world]', x=-564.50, y=83.00, z=-41.50]
+[19:34:44] [Server thread/INFO]: Asierito01OwO[/127.26.148.143:34991] logged in with entity id 902874 at (-429.7441566555461, 83.0, -288.48750001192093)
+[19:34:44] [Server thread/INFO]: Sending server config values to client
+[19:34:44] [Server thread/INFO]: Syncing config to Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20)
+[19:34:44] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:34:44] [Server thread/INFO]: Asierito01OwO joined the game
+[19:34:45] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:34:46] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Asierito01OwO. Claiming: GRAVE / Robbing: INVENTORY
+[19:34:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:34:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:34:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:34:46] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:34:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Dungeon/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:36:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/903868, l='ServerLevel[world]', x=-767.50, y=80.00, z=-2.50]
+[19:37:13] [Server thread/INFO]: Neropou777 has completed the challenge [Find: Ruin pillager]
+[19:37:21] [Server thread/INFO]: Villager class_1646['Dianey Guterman the Alchemist'/837035, l='ServerLevel[world]', x=-347.72, y=104.56, z=-280.40] died, message: 'Dianey Guterman the Alchemist was slain by felipaosxdd'
+[19:37:21] [Server thread/INFO]: Named entity class_1646['Dianey Guterman the Alchemist'/837035, l='ServerLevel[world]', x=-347.72, y=104.56, z=-280.40] died: Dianey Guterman the Alchemist was slain by felipaosxdd
